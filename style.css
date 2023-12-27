@@ -1,0 +1,47 @@
+p {
+  font-family: "CMU Serif", Calibri, Tahoma, sans-serif;
+  font-size: larger;
+}
+
+
+h1 {
+  font-family: "Rubik Doodle Shadow", "Inconsolata", serif;
+  color: #9e4a0e;
+}
+
+h2, h3 {
+  font-family: "Rubik Doodle Shadow", "Inconsolata", serif;
+}
+
+ul , ol {
+  font-family: "CMU Serif", Calibri, Tahoma, sans-serif;
+  font-size: larger;
+}
+
+input {
+  font-family: "CMU Serif", Calibri, Tahoma, sans-serif;
+  font-size: larger;
+}
+
+button {
+  font-family: "CMU Serif", Calibri, Tahoma, sans-serif;
+  font-size: larger;
+}
+
+fieldset {
+  font-family: "CMU Serif", Calibri, Tahoma, sans-serif;
+  font-size: larger;
+}
+
+figure {
+  font-family: "CMU Serif", Calibri, Tahoma, sans-serif;
+  font-size: larger;
+}
+
+footer {
+  font-family: "CMU Serif", Calibri, Tahoma, sans-serif;
+}
+
+div {
+  background-color: #c2e1ff;
+}
